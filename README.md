@@ -14,7 +14,7 @@
 
 ## 🌟 Sobre mí
 - **Titulado en ASIR** — Técnico Superior en Administración de Sistemas Informáticos en Red.
-- **Titulado en SMR** — Técnico Sistemas Microinformáticos y Redes.
+- **Titulado en SMR** — Técnico en Sistemas Microinformáticos y Redes.
 - Buscando oportunidades profesionales como **Administrador de Sistemas**, **DevOps** o **Soporte IT**.
 - Mis áreas de especialización:
   - **Sistemas:** Linux **(Debian/Ubuntu/Kali Linux)**, Windows Server, WebMin, Active Directory.
