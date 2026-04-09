@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=180&section=header&text=AntonioVG&fontSize=50&fontColor=00d4ff&animation=fadeIn&stroke=000000&strokeWidth=2&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=58a6ff&v=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=bubbly&color=0:0a192f,100:000000&height=180&section=header&text=AntonioVG&fontSize=50&fontColor=64ffda&animation=scaleIn&stroke=64ffda&strokeWidth=1&desc=SysAdmin%20|%20DevOps%20|%20Linux&descSize=18&descAlignY=70&descColor=8892b0&v=3" width="100%" />
 </p>
 
 # 👋 Hola, soy Antonio Villarraso Gomez
