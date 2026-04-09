@@ -14,14 +14,13 @@
 
 ## 🌟 Sobre mí
 - **Titulado en ASIR** — Técnico Superior en Administración de Sistemas Informáticos en Red.
+- **Titulado en SMR** — Técnico Sistemas Microinformáticos y Redes.
 - Buscando oportunidades profesionales como **Administrador de Sistemas**, **DevOps** o **Soporte IT**.
 - Mis áreas de especialización:
-  - **Infraestructura:** Despliegue con **Docker**, **Portainer**, **NGINX**, **Debian**, **Ubuntu Server** y **Windows Server**.
-  - **Directorio Activo:** Administración de **Active Directory**, GPOs, DNS y DHCP en entornos Windows Server.
-  - **Automatización:** Gestión de configuraciones con **Ansible** y scripting en **Bash**.
-  - **Monitorización:** Centralización de logs con **Graylog**, **OpenSearch** y **Rsyslog**.
-  - **Backend:** Arquitecturas web con **PHP** y **Laravel**.
+  - **Sistemas:** Linux **(Debian/Ubuntu/Kali Linux)**, Windows Server, WebMin, Active Directory.
+  - **Redes:** Cisco **(CCNA)**, VPNs, Firewalling **(pfSense)**.
+  - **Virtualización:** VMware, Proxmox, VirtualBox, Docker.
+  - **Servicios:** Apache, Nginx, DNS, DHCP, FTP.
   - **Datos:** Gestión de bases de datos relacionales (**MariaDB**, **MySQL**, **PostgreSQL**).
-- Disfruto creando proyectos prácticos y resolviendo problemas reales con código.
 
 ---
