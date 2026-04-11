@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0a192f,100:00d4ff&height=180&section=header&text=AntonioVG&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=1&desc=SysAdmin%20%7C%20DevOps%20%7C%20Linux&descSize=18&descAlignY=70&descColor=ffffff&v=3" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github.com/antoniovg99/Mi-Pagina/blob/main/github-header-banner%20(1).png" alt="AntonioVG Header" width="100%">
+</div>
 
 # 👋 Hola, soy Antonio Villarraso Gomez
 
